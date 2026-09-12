@@ -1,3 +1,3 @@
 # Assignment 1 - Git
 
-Git assignment submission.
+Console.WriteLine("Hello, I have updated my code.");
